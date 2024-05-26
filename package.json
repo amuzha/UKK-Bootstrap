@@ -1,5 +1,27 @@
 {
+  "name": "ukk-bootstrap",
+  "version": "1.0.0",
+  "description": "Project Ujian Kompetensi Keahlian Membuat Website Dengan Bootstrap dan Custom CSS",
+  "main": "index.html",
+  "devDependencies": {},
   "dependencies": {
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "jquery": "^3.7.1",
+    "swiper": "^11.1.3",
     "wowjs": "^1.1.3"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amuzha/ukk-web-bootstrap.git"
+  },
+  "author": "Amuzha Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amuzha/ukk-web-bootstrap/issues"
+  },
+  "homepage": "https://github.com/amuzha/ukk-web-bootstrap#readme"
 }
